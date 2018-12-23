@@ -1,0 +1,9 @@
+[package]
+name = "day16"
+version = "0.1.0"
+authors = ["Joe Ryan <jfr7p@virginia.edu>"]
+
+[dependencies]
+
+custom_derive = "0.1.7"
+enum_derive = "0.1.7"
